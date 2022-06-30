@@ -32,9 +32,9 @@
 
   . Android Studio
 
-     * Download android S
+     - Download android S
   
-     * Criar um avd (Android Virtual Device)
+     - Criar um avd (Android Virtual Device)
   
 * Criação do projeto
 
@@ -46,19 +46,19 @@
 
   . View
 
- . Text
+  . Text
 
- . SafeAreaView
+  . SafeAreaView
 
- . Image
+  . Image
 
- . Flex-box
+  . Flex-box
  
- . Style (StyleSheet)
+  . Style (StyleSheet)
 
- . Pressable
+  . Pressable
 
- . Linking API
+  . Linking API
 
- . Add código nativo no AndroidManifest.xml para abrir link
+  . Add código nativo no AndroidManifest.xml para abrir link
 
